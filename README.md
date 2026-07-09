@@ -1,4 +1,4 @@
-# notify-phone
+# claude-notify-phone
 
 A Claude skill (for Claude Code / Claude Cowork) that lets Claude push a notification straight to your phone via Telegram — so it can tell you when it needs input, when a task finishes, or when something breaks, instead of you having to keep checking the chat.
 
